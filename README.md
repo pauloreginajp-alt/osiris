@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⬡ OSIRIS
+# ⬡ ARGUS GLOBAL.
 
 ### Open Source Intelligence & Reconnaissance Integrated System
 
